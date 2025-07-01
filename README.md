@@ -1,103 +1,42 @@
-# 🧠 intelliCV : AI-Powered Resume Builder
+IntelligentCV: Smart Resume Builder with AI Assistance
+IntelligentCV is a modern and intelligent resume-building web application that enables users to craft professional, personalized resumes in minutes — with real-time editing and AI support.
 
-IntelliCV is a powerful and intuitive resume builder platform designed to help users create professional resumes quickly using real-time previews and AI assistance.
+🚀 Key Highlights
+🧾 Interactive Resume Creator
+Navigate through well-structured steps:
+→ Personal Info
+→ Summary Generator
+→ Work Experience
+→ Education
+→ Skills & Certifications
+→ Achievements
 
----
+🔐 Seamless Authentication
+Integrated with Clerk for secure Sign Up, Sign In, and session handling.
 
-## 🚀 Features
+🤖 AI-Powered Summary Generation
+One-click AI button helps you auto-generate compelling summaries for your resume.
 
-- 🧾 **Multi-Step Resume Builder**:
-  - Personal Information
-  - Professional Summary
-  - Work Experience
-  - Education
-  - Skills
-  - Achievements
--  🔐 **User Authentication** with Clerk (Sign In, Sign Up, Secure Access)
-- 🧠 **Generate with AI** Button for auto-filling Summary
-- ✏️ **Flexibility to Add or Remove Details** like skills, achievements, experience, and more
-- 📄 **Live Resume Preview** that updates in real-time as user types
-- 📥 **Download & Share Options** after resume completion
-- 📊 **User Dashboard** showing all created resumes in a card layout
-- 💾 **Data Persistence** with localStorage + Strapi backend
-- 📱 **Fully Responsive** for Mobile, Tablet, and Desktop
-- 💬 **User-Friendly Interface** with modern design and smooth transitions
+✨ Flexible Resume Structure
+Easily add/remove fields like experience, certifications, or skills as per your career needs.
 
----
+🖥️ Live Preview Feature
+View updates instantly as you enter or modify your information.
 
-## 🧑‍💻 Tech Stack
+📤 Download & Share Options
+Save your resume as a PDF or share a public link directly.
 
-- **Frontend**:  
-  - React.js (SPA)  
-  - Tailwind CSS (Utility-first styling)  
-  - Lucide Icons (for consistent iconography)  
-  - React Router DOM (Routing and navigation)
+📊 Personal Dashboard
+View and manage all your resumes in a clean card layout.
 
-- **Authentication**:  
-  - Clerk (for secure and seamless user login, signup, and user state management)
+💾 Persistent Data Storage
+Resumes are saved securely using Strapi CMS, with localStorage backup.
 
-- **Backend**:  
-  - Strapi (Headless CMS for Resume data management)  
-  - REST API-based communication between frontend and backend
+📱 Fully Responsive Design
+Works smoothly across all screen sizes — desktop, tablet, and mobile.
 
-
----
-
-
-## 🔎 Preview
-
-### 🌿 Landing Page Preview
-<img src="./public/screenshots/landing.png" alt="Landing Page Preview" width="700"/>
-
----
-
-### 🖥️ Dashboard View
-<img src="./public/screenshots/dashboard.png" alt="Dashboard View" width="700"/>
-
----
-
-### 🔐 Sign-in / Sign-out Preview
-<img src="./public/screenshots/sign-in.png" alt="Sign-in / Sign-out" width="300" height="300" />
-
----
-
-### 👤 Personal Detail Form
-<img src="./public/screenshots/personal-detail.png" alt="Personal Detail Form" width="700"/>
-
----
-
-### 🧠 Summary Form
-<img src="./public/screenshots/summary.png" alt="Summary Form" width="700"/>
-
----
-
-### 💼 Experience Form
-<img src="./public/screenshots/experience.png" alt="Experience Form" width="700"/>
-
----
-
-### 🎓 Education Form
-<img src="./public/screenshots/education.png" alt="Education Form" width="700"/>
-
----
-
-### 🛠️ Skills Form
-<img src="./public/screenshots/skills.png" alt="Skills Form" width="700"/>
-
----
-
-### 🏆 Achievements Form
-<img src="./public/screenshots/achievements.png" alt="Achievements Form" width="700"/>
-
----
-
-### 📤 Download/Share Options
-<img src="./public/screenshots/download-share.png" alt="Download-Share Preview" width="700"/>
-
----
-
-### 📄 Final Resume Preview
-<img src="./public/screenshots/resume-preview.png" alt="Resume Preview" width="300" />
+💫 Smooth UI/UX
+Clean design, minimal UI, and intuitive transitions for a great user experience.
 
 
 
