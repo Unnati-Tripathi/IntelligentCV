@@ -1,4 +1,4 @@
-IntelligentCV: Smart Resume Builder with AI Assistance
+🧠 IntelligentCV: Smart Resume Builder with AI Assistance
 IntelligentCV is a modern and intelligent resume-building web application that enables users to craft professional, personalized resumes in minutes — with real-time editing and AI support.
 
 🚀 Key Highlights
@@ -38,6 +38,20 @@ Works smoothly across all screen sizes — desktop, tablet, and mobile.
 💫 Smooth UI/UX
 Clean design, minimal UI, and intuitive transitions for a great user experience.
 
+🧑‍💻 Tech Stack Overview
+🔧 Frontend
+React.js – SPA architecture for fast rendering
 
+Tailwind CSS – Utility-first CSS for sleek styling
 
+Lucide Icons – Elegant and consistent icon library
 
+React Router DOM – Efficient client-side routing
+
+🔐 Authentication
+Clerk – Secure authentication, user state, and session handling
+
+⚙️ Backend
+Strapi CMS – Headless content manager to store resume data
+
+REST APIs – Backend communication using RESTful endpoints
